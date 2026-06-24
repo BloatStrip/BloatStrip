@@ -1,16 +1,19 @@
-## Hi there 👋
+# BloatStrip: JSON Flattening for Maximum Token Density
 
-<!--
-**BloatStrip/BloatStrip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="2732" height="1536" alt="INOUT" src="https://github.com/user-attachments/assets/889b7135-601a-4c5d-95e8-1db990ae0690" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+LLM context windows are burning your API budget on nested JSON brackets and structural formatting.
+
+**BloatStrip** is a offline, hyper-aggressive parser that flattens complex data arrays into shallow, token-dense architectures without losing logical state.
+
+*   **Zero Conversational Fluff:** Strips pleasantries and meta-commentary from prompt inputs.
+*   **Max Context Squeeze:** Compresses nested arrays, significantly reducing token weight.
+*   **Drop-In Ready:** Designed for advanced prompt-engineering pipelines and strict JSON-enforced outputs.
+
+This is a proprietary, offline deployment. We sell the financial utility, not the source code.
+
+[ACQUIRE THE BINARY ↗](https://www.fiverr.com/bloatstrip/)
