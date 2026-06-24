@@ -16,4 +16,4 @@ LLM context windows are burning your API budget on nested JSON brackets and stru
 
 This is a proprietary, offline deployment. We sell the financial utility, not the source code.
 
-[ACQUIRE THE BINARY ↗](https://www.fiverr.com/bloatstrip/)
+[ACQUIRE THE BINARY ↗](https://www.fiverr.com/bloatstrip/parse-clean-and-flatten-massive-json-jsonl-or-csv-logs-for-ai-context?ref_ctx_id=703699275a16462295cf10a58ce044fc&pckg_id=1&source=seller_page)
